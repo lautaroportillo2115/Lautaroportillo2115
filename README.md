@@ -35,8 +35,7 @@ Ayudo a transformar datos crudos en insights valiosos para respaldar la toma de 
 ## 🚀 Proyectos Destacados
 
 
-    </td>
-    <td width="50%">
+   <td width="50%">
       <h3>Análisis Estratégico de COVID-19 – “BioGenesys”</h3>
       <p>Proyecto de análisis de datos sobre la evolución de la pandemia, utilizando datos públicos para visualizar tendencias y patrones geográficos. El proyecto incluye limpieza de datos con Python y visualización en Power BI.</p>
       <a href="URL_DEL_PROYECTO_EN_GITHUB" target="_blank"><strong>Ver Repositorio &rarr;</strong></a>
