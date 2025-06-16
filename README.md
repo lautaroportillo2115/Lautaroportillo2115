@@ -5,10 +5,7 @@
   <a href=https://www.linkedin.com/in/lautaro-portillo-7589451a7/) target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href=lautaroportillo2115@gmail.com target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+ 
 
 ---
 
@@ -37,12 +34,7 @@ Ayudo a transformar datos crudos en insights valiosos para respaldar la toma de 
 
 ## 🚀 Proyectos Destacados
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Análisis Profesional de la NBA – “NBAnalytics”</h3>
-      <p>Análisis exploratorio de datos (EDA) sobre estadísticas históricas de la NBA para identificar patrones de rendimiento en jugadores y equipos. Creación de un dashboard interactivo en Power BI.</p>
-      <a href="URL_DEL_PROYECTO_EN_GITHUB" target="_blank"><strong>Ver Repositorio &rarr;</strong></a>
+
     </td>
     <td width="50%">
       <h3>Análisis Estratégico de COVID-19 – “BioGenesys”</h3>
