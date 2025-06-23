@@ -45,7 +45,7 @@ Ayudo a transformar datos crudos en insights valiosos para respaldar la toma de 
     <td width="50%">
       <h3>Análisis de Ventas – “Adventure Works Cycles”</h3>
       <p>Análisis del rendimiento de ventas de la empresa ficticia Adventure Works. El objetivo fue identificar los productos más vendidos, analizar la rentabilidad por región y proponer estrategias de recuperación de clientes.</p>
-      <a href="[URL_DEL_PROYECTO_EN_GITHUB](https://github.com/lautaroportillo2115/AdventureWorldCycles)" target="_blank"><strong>Ver Repositorio &rarr;</strong></a>
+      <a href="https://github.com/lautaroportillo2115/AdventureWorldCycles" target="_blank"><strong>Ver Repositorio &rarr;</strong></a>
     </td>
     <td width="50%">
       </td>
