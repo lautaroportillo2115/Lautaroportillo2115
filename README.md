@@ -77,6 +77,5 @@ Adaptabilidad | Empatía | Comunicación Efectiva | Trabajo en Equipo | Pensamie
 
 ---
 
-> "La información es el petróleo del siglo XXI, y el análisis es el motor de combustión."  
-> — Peter Sondergaard
+
 
