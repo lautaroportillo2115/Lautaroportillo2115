@@ -28,7 +28,7 @@ Ayudo a transformar datos crudos en insights valiosos para respaldar la toma de 
 | :---: | :---: | :---: | :---: |
 | Power BI | SQL Server | Python (Pandas, NumPy) | Procesos ETL |
 | Excel | MySQL | Seaborn / Matplotlib | DAX |
-| Google Spreadsheets | | Java (Básico) | Consumo de APIs |
+| Google Spreadsheets | PostgreSQL | Java (Básico) | Consumo de APIs |
 
 ---
 
