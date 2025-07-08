@@ -74,7 +74,7 @@ Adaptabilidad | Empatía | Comunicación Efectiva | Trabajo en Equipo | Pensamie
 - 📧 Email: **lautaroportillo2115@gmail.com**
 - 💼 LinkedIn: [lautaro-portillo](https://www.linkedin.com/in/lautaro-portillo-7589451a7/)
 - 📁 GitHub: [lautaroportillo2115](https://github.com/lautaroportillo2115)
-
+- 📍 Ubicación: Corrientes, Argentina
 ---
 
 
